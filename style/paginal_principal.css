@@ -61,6 +61,8 @@ body{
     margin: auto;
     padding: 20px;
     width: 90vw;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px var(--preto);
     background-color: var(--cor-laranja);
     position: absolute;
     top: 50%;
